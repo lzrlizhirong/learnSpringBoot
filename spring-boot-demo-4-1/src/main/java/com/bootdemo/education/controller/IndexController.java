@@ -1,15 +1,14 @@
 
 package com.bootdemo.education.controller;
 
-import java.util.Date;
-import java.util.HashMap;
-
+import com.bootdemo.education.bean.User;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.bootdemo.education.bean.User;
+import java.util.Date;
+import java.util.HashMap;
 
 /**
  * spring-boot-demo-4-1
