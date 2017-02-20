@@ -1,11 +1,11 @@
 #这个优先级较高
 
 #自定义配置
-roncoo: 
+bootdemo:
   secret: ${random.value}
   number: ${random.int}
-  name: www.roncoo.com
-  desc: ${roncoo.name} is a domain name
+  name: www.bootdemo.com
+  desc: ${bootdemo.name} is a domain name
 
 #端口
 server: 
